@@ -3,7 +3,7 @@ entries:
   repogit:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-07T14:22:29.088609626+02:00"
+    created: "2023-09-07T14:40:53.728292992+02:00"
     description: A Helm chart for repogit.
     digest: e97a1b8ee0fa7546569ef06d53673a8d1ef7afe5089e3b31e98d2d6023d388db
     name: repogit
@@ -11,4 +11,15 @@ entries:
     urls:
     - repogit-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-07T14:22:29.087820649+02:00"
+  repogit2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-07T14:40:53.728526736+02:00"
+    description: A Helm chart for Kubernetes
+    digest: e180282723daa7869ae706aad990b1566b8064c8dde4178bccbed6d51c787b74
+    name: repogit2
+    type: application
+    urls:
+    - repogit2-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-07T14:40:53.727954593+02:00"
